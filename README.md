@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Eddie Lin and I am a Data Scientist with a background in Mechanical Engineering where I previously worked as a Repair Development Engineer for Airplane engines ✈️✈️. I am currently based in the NYC greater area. 
+My name is Eddie Lin and I am a Data Scientist with a background in Mechanical Engineering where I previously worked as a Repair Development Engineer for Airplane engines ✈️ ⚙️  . I am currently based in the NYC greater area. 
 
 Some of my technical skills include:
 
@@ -13,6 +13,7 @@ Some of my technical skills include:
 ## Skills I am improving or Learning:
   
   * Tableau
+  * Soldering
 ____________________________
 ## Previous Project Highlights
 
