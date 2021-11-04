@@ -11,9 +11,8 @@ Some of my technical skills include:
  * Scikkit-Learn
 
 ## Skills I am improving or Learning:
-  
+  * SQL
   * Tableau
-  * Soldering
 ____________________________
 ## Previous Project Highlights
 
